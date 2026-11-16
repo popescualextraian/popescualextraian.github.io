@@ -2,3 +2,5 @@ title: Alex Popescu
 description: Notes on agentic software development, tools, experiments and lessons learned.
 theme: minima
 github_username: popescualextraian
+header_pages:
+  - pathfinder/index.md
