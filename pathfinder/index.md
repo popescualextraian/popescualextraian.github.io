@@ -11,7 +11,7 @@ that implement them.
 ## The method
 
 A method for Level 4 agentic development: principles, a maturity model and nine pillars for the
-setup around the agents. **Coming soon.**
+setup around the agents. **[Read part 1: Purpose and scope](/pathfinder/method/)**; the other parts are coming soon.
 
 ## Articles
 
