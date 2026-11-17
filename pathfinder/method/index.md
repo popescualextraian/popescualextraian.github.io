@@ -20,8 +20,8 @@ implementation.
 | # | Part | Status |
 |---|---|---|
 | 1 | [Purpose and scope](/pathfinder/method/purpose/) | published |
-| 2 | Principles | coming soon |
-| 3 | Maturity model | coming soon |
+| 2 | [Maturity model](/pathfinder/method/maturity/) | published |
+| 3 | Principles | coming soon |
 | 4 | The nine pillars | coming soon |
 
 Articles about the method are in [Pathfinder](/pathfinder/).

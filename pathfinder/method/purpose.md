@@ -53,10 +53,10 @@ The method moves from theory to practice.
 
 **The theory: what to build, and in what order.**
 
-1. **Principles** (part 2, coming soon): the beliefs the rest follows from, and the
-   decisions they imply.
-2. **A way to see how far up you've built** (part 3, coming soon): where a team stands,
+1. **A way to see how far up you've built** ([part 2](/pathfinder/method/maturity/)): where a team stands,
    in terms you can observe.
+2. **Principles** (part 3, coming soon): the beliefs the rest follows from, and the
+   decisions they imply.
 3. **Nine pillars** (part 4, coming soon): the building blocks, each with practices, common
    mistakes and a checklist.
 
