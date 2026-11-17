@@ -4,3 +4,6 @@ theme: minima
 github_username: popescualextraian
 header_pages:
   - pathfinder/index.md
+show_excerpts: true
+url: https://popescualextraian.github.io
+linkedin_username: alex-popescu-49506b62

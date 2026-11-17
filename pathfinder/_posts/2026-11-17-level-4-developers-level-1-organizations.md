@@ -3,11 +3,11 @@ layout: post
 title: "I Haven't Written a Line of Code in Over a Year. How's Your Release Train?"
 date: 2026-11-17 09:00:00 +0100
 description: "Developers are reaching Level 4 of agentic development while their organizations still run at Level 1: four questions about teams, product, contracts and metrics."
+excerpt: "Developers are reaching Level 4 of agentic development while their organizations still run at Level 1: four questions about teams, product, contracts and metrics."
+image: /assets/images/level-4-developers-level-1-organizations/header.png
 ---
 
 ![How's your release train doing?](/assets/images/level-4-developers-level-1-organizations/header.png)
-
----
 
 I haven't written a line of code in over a year.
 
