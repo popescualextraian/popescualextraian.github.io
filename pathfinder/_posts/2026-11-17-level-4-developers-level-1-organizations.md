@@ -34,6 +34,11 @@ levels of self-driving cars. It's a useful map, so a quick tour:
   results. You are the manager.
 - **Level 5, the dark factory.** Specs go in, software comes out. No human in the loop.
 
+![The levels as a staircase: Level 4 is the target, Level 5 is out of scope, and each step is built on pillars](/assets/images/level-4-developers-level-1-organizations/levels.png)
+
+*Each step is built, not bought. The pillars come from the
+[Pathfinder method](https://popescualextraian.github.io/pathfinder/method/).*
+
 Shapiro makes a sharp point: most developers who call themselves AI-native stall at Level 2, and
 every level feels like the finish line. It isn't.
 
